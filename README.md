@@ -1,2 +1,1 @@
-# mock-project
-MockProject
+Mock project VTI
